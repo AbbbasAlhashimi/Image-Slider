@@ -8,5 +8,5 @@ Whenever, a specific image is displayed, the for loop will allow change in slide
 Whenever a slide is selected, we use this code [x[i].style.display = "none";] to stop the for loop until the counter [x] is changed.
  <br>
  The Code implementation can be found on CodePen.io [https://codepen.io/abbbas_alhashimi/pen/ZEePdyx]
-Please feel free to reach me out via LinkedIn [https://www.linkedin.com/in/abbas-fadhil-ab53ba82/]
+Please feel free to reach me out via LinkedIn [https://www.linkedin.com/in/abbas-fadhil-ab53ba82/]<br>
 Kind regards
