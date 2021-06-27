@@ -6,3 +6,7 @@ When pressing on the Prev Buttom, the code to display images in a backword order
 When pressing on the Next Buttom, the code to display images in a Forward order is [slideIndex = 1;]<br>
 Whenever, a specific image is displayed, the for loop will allow change in slider counter [x]. <br>
 Whenever a slide is selected, we use this code [x[i].style.display = "none";] to stop the for loop until the counter [x] is changed.
+ <br>
+ The Code implementation can be found on CodePen.io [https://codepen.io/abbbas_alhashimi/pen/ZEePdyx]
+Please feel free to reach me out via LinkedIn [https://www.linkedin.com/in/abbas-fadhil-ab53ba82/]
+Kind regards
